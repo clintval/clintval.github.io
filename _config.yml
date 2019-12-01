@@ -1,1 +1,3 @@
-remote_theme: fongandrew/hydeout
+title: [CvBio]
+description: [A short description of your site's purpose]
+theme: jekyll-theme-minimal
